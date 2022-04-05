@@ -47,9 +47,5 @@ public class Main {
             map.setValue(usersMap1);
             System.out.println(map);
         }
-
-
-
-
     }
 }
